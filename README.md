@@ -1,4 +1,4 @@
 oef-specifications
 ==================
 
-Reference repository for open esd file (oef) format spacifications 
+Reference repository for open esd file (oef) format specifications 
